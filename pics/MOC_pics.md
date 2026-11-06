@@ -1,0 +1,1 @@
+![[driver.png]]![[goal.png]]![[constraint.png]]![[stakeholder.png]]![[assessment.png]]![[outcome.png]]![[meaning.png]]![[requirement.png]]![[principle.png]]![[value.png]]![[resource.png]]![[capability.png]]![[value stream.png]]![[course of action.png]]

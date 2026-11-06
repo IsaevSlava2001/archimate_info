@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "7df763c2fc2c2f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "8545e8d12ce1b979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e29471190563a48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Драйвер (Driver)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e35e9d4a2ed4987",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e12b7e6acacc9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bc5e198107c054",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7967a642e93d931b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "15b51e3c57ae4581",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6c31087c48c3069",
+    "type": "split",
+    "children": [
+      {
+        "id": "9902067806a98a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee873ccc7e8abd1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "20d5b6be68cb424a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "04610a4c1919321c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "187aa217bb7fe128",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "d0088ac5bc02d8b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e29471190563a48a",
+  "lastOpenFiles": [
+    "02_Strategy_Motivation/Мотивация/Мотивационный слой MOC.md",
+    "02_Strategy_Motivation/Стратегия/Стратегический слой MOC.md",
+    "02_Strategy_Motivation/Стратегия/Способность (Capability).md",
+    "02_Strategy_Motivation/Стратегия/Ресурс (Resource).md",
+    "02_Strategy_Motivation/Стратегия/Поток создания ценности (Value Stream).md",
+    "02_Strategy_Motivation/Стратегия/Курс действий (Course of Action).md",
+    "02_Strategy_Motivation/Мотивация/Ценность (Value).md",
+    "02_Strategy_Motivation/Мотивация/Цель (Goal).md",
+    "02_Strategy_Motivation/Мотивация/Требование (Requirement).md",
+    "02_Strategy_Motivation/Мотивация/Стейкхолдер (Stakeholder).md",
+    "02_Strategy_Motivation/Мотивация/Принцип (Principle).md",
+    "02_Strategy_Motivation/Мотивация/Оценка (Assessment).md",
+    "02_Strategy_Motivation/Мотивация/Ограничение (Constraint).md",
+    "02_Strategy_Motivation/Мотивация/Конечный результат (Outcome).md",
+    "02_Strategy_Motivation/Мотивация/Значение (Meaning).md",
+    "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
+    "pics/MOC_pics.md",
+    "pics/course of action.png",
+    "pics/value stream.png",
+    "pics/capability.png",
+    "pics/resource.png",
+    "pics/value.png",
+    "pics/principle.png",
+    "pics/requirement.png",
+    "pics/meaning.png",
+    "pics/outcome.png",
+    "pics/assessment.png",
+    "Принцип (Principle).md",
+    "99_Templates/Шаблон Элемента.md",
+    "01_Core/Ядро ArchiMate.md",
+    "00_MOC/Главная MOC.md",
+    "README.md",
+    "02_Strategy_Motivation/Стратегия/Курс действий.md",
+    "pics",
+    "02_Strategy_Motivation/Стратегия/Способность.md",
+    "02_Strategy_Motivation/Стратегия/Ресурс.md",
+    "Назначение.md",
+    "00_MOC/Кейс - Открытие кофейни.canvas",
+    "02_Strategy_Motivation/Мотивация",
+    "02_Strategy_Motivation/Стратегия",
+    "99_Templates",
+    "07_Relationships",
+    "06_Implementation",
+    "05_Technology_Physical",
+    "04_Application",
+    "03_Business",
+    "02_Strategy_Motivation"
+  ]
+}

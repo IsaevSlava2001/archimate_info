@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"12fcfa305d0b4db8","x":-476,"y":-167,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Мотивация/Стейкхолдер (Stakeholder).md"},
+		{"id":"b3598550c2bce106","x":219,"y":295,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Мотивация/Цель (Goal).md"},
+		{"id":"7e3c2480952b48da","x":320,"y":-367,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Мотивация/Драйвер (Driver).md"},
+		{"id":"6ad46905348bc2bf","x":880,"y":920,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Стратегия/Курс действий.md"},
+		{"id":"6cf848e4f11f9c43","x":1080,"y":295,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Мотивация/Требование (Requirement).md"},
+		{"id":"7581ca2c0df77921","x":-76,"y":1200,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Стратегия/Способность.md"},
+		{"id":"0b0080fca7edaa23","x":-640,"y":600,"width":400,"height":400,"type":"file","file":"02_Strategy_Motivation/Стратегия/Ресурс.md"}
+	],
+	"edges":[
+		{"id":"410013e9ec96fe81","fromNode":"12fcfa305d0b4db8","fromSide":"right","toNode":"7e3c2480952b48da","toSide":"left","label":"Влияет"},
+		{"id":"c662ecc577c03910","fromNode":"7e3c2480952b48da","fromSide":"bottom","toNode":"b3598550c2bce106","toSide":"top","label":"Влияет"},
+		{"id":"355b484ff9976da8","fromNode":"b3598550c2bce106","fromSide":"right","toNode":"6cf848e4f11f9c43","toSide":"left","label":"Реализуется через"},
+		{"id":"34f488149ddc2165","fromNode":"b3598550c2bce106","fromSide":"right","toNode":"6ad46905348bc2bf","toSide":"left","label":"Достигается через"},
+		{"id":"9d425911ad557352","fromNode":"6ad46905348bc2bf","fromSide":"left","toNode":"7581ca2c0df77921","toSide":"right","label":"Настраивает"},
+		{"id":"9c71ec941f52de6a","fromNode":"7581ca2c0df77921","fromSide":"top","toNode":"0b0080fca7edaa23","toSide":"right","label":"Использует"}
+	]
+}

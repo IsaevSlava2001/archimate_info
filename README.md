@@ -45,3 +45,4 @@
 - **Templates (Встроенный):** Для быстрого создания карточек.
 - **Canvas (Встроенный):** Для рисования схем и метамоделей (папка `00_MOC`).
 - **Dataview (Опционально):** Для автоматической сборки таблиц элементов на основе тегов.
+![[business object.png]]![[representation.png]]![[contract.png]]![[business process.png]]![[business function.png]]![[business interaction.png]]![[business event.png]]![[business service.png]]![[business actor.png]]![[business collaboration.png]]![[business role.png]]![[business interface.png]]![[product.png]]

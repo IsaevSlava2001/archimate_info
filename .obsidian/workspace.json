@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Business/Representation (Представление).md",
+                "file": "03_Business/Бизнес-интерфейс (Business Interface).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Representation (Представление)"
+              "title": "Бизнес-интерфейс (Business Interface)"
+            }
+          },
+          {
+            "id": "8a1d5aa457168d57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,21 +199,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e29471190563a48a",
+  "active": "8a1d5aa457168d57",
   "lastOpenFiles": [
+    "02_Strategy_Motivation/Стратегия/Стратегический слой MOC.md",
+    "02_Strategy_Motivation/Стратегия/Способность (Capability).md",
+    "02_Strategy_Motivation/Стратегия/Ресурс (Resource).md",
+    "02_Strategy_Motivation/Стратегия/Поток создания ценности (Value Stream).md",
+    "02_Strategy_Motivation/Стратегия/Курс действий (Course of Action).md",
+    "02_Strategy_Motivation/Мотивация/Ценность (Value).md",
+    "02_Strategy_Motivation/Мотивация/Цель (Goal).md",
+    "02_Strategy_Motivation/Мотивация/Требование (Requirement).md",
+    "02_Strategy_Motivation/Мотивация/Стейкхолдер (Stakeholder).md",
+    "02_Strategy_Motivation/Мотивация/Принцип (Principle).md",
+    "02_Strategy_Motivation/Мотивация/Оценка (Assessment).md",
+    "02_Strategy_Motivation/Мотивация/Ограничение (Constraint).md",
+    "02_Strategy_Motivation/Мотивация/Мотивационный слой MOC.md",
+    "02_Strategy_Motivation/Мотивация/Конечный результат (Outcome).md",
+    "02_Strategy_Motivation/Мотивация/Значение (Meaning).md",
+    "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
+    "03_Business/Бизнес-интерфейс (Business Interface).md",
+    "Бизнес-функция.md",
+    "03_Business/Бизнес-взаимодействие (Business Interaction).md",
+    "03_Business/Бизнес-актор (Business Actor).md",
+    "03_Business/Representation (Представление).md",
     "03_Business/Product (Продукт).md",
     "03_Business/Contract (Договор).md",
     "03_Business/Бизнес-функция (Business Function).md",
     "03_Business/Бизнес-событие (Business Event).md",
     "03_Business/Бизнес-сервис (Business Service).md",
-    "03_Business/Бизнес-роль (Business Role).md",
-    "03_Business/Бизнес-процесс (Business Process).md",
-    "03_Business/Бизнес-объект (Business Object).md",
-    "03_Business/Бизнес-коллаборация (Business Collaboration).md",
-    "03_Business/Бизнес-интерфейс (Business Interface).md",
-    "03_Business/Бизнес-взаимодействие (Business Interaction).md",
-    "03_Business/Бизнес-актор (Business Actor).md",
-    "README.md",
     "pics/product.png",
     "pics/business interface.png",
     "pics/business role.png",
@@ -213,19 +237,7 @@
     "pics/business interaction.png",
     "pics/business function.png",
     "pics/business process.png",
-    "02_Strategy_Motivation/Мотивация/Требование (Requirement).md",
-    "03_Business/Бизнес-слой MOC.md",
-    "03_Business/Representation (Представление).md",
-    "02_Strategy_Motivation/Мотивация/Конечный результат (Outcome).md",
-    "02_Strategy_Motivation/Мотивация/Значение (Meaning).md",
-    "02_Strategy_Motivation/Мотивация/Мотивационный слой MOC.md",
-    "02_Strategy_Motivation/Мотивация/Драйвер (Driver).md",
     "03_Business",
-    "02_Strategy_Motivation/Стратегия/Стратегический слой MOC.md",
-    "02_Strategy_Motivation/Стратегия/Способность (Capability).md",
-    "02_Strategy_Motivation/Стратегия/Ресурс (Resource).md",
-    "02_Strategy_Motivation/Стратегия/Поток создания ценности (Value Stream).md",
-    "02_Strategy_Motivation/Стратегия/Курс действий (Course of Action).md",
     "pics",
     "00_MOC/Кейс - Открытие кофейни.canvas",
     "02_Strategy_Motivation/Мотивация",
